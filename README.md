@@ -1,0 +1,2 @@
+# bagus-crypto
+Crypto hunter
